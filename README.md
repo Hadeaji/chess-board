@@ -9,5 +9,3 @@ the add_red method add the red peice
 and the_add blue adds the blue peice
 
 is_under_attack will check if the blue getting attacked by the red , by checking horizontally, vertically or diagonally
-
-Link to [PR](www.google.com)
